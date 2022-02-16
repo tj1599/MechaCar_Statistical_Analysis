@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis# MechaCar_statistical_Analysis
+# MechaCar_Statistical_Analysis
 
 ## Background
 Jeremy is approached by upper mangement, shortly after starting his new role about a speical project. MechaCar is AutosRU's prototype is suffering from production issues that are preventing the team from their progress. They have called on Jeremy and that data team to review the production data for insights that may help the manufacturing team
